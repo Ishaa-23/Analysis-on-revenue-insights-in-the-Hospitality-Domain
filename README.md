@@ -24,10 +24,11 @@ This project aims to focus on which of the resorts or hotels owned by Atliq gene
 ## Dashboard
 https://github.com/user-attachments/assets/2a646566-f1d8-4e21-85de-de89359b98b9
 ## Insights
-* Most revenue is collected from Mumbai
+* Most revenue is collected from Mumbai, Delhi and Bangalore.
 * Weekend revenue and occupancy rate is more as compared to weekday.
 * Luxury rooms contribute towards revenue more than business.
 * Out of all the booking platforms, logtrip has the most realization %. If booking is does offline it has the highest ADR.
 * On a weekly basis the ADR almost stays constant, occupancy and revpar rates fluctuates within an interval of 2-3 days.
   
 ## Conclusion
+In order to bring back their value to the market and ensure a consistent revenue the owners can expand their business more in the 3 cities Mumbai, Delhi and Bangalore. Their luxury rooms can be promoted more since that brings in more revenue and occupancy. Towards mid weeks of May and June the occupancy rates go up which is probably due to vacations and around July it goes down. The reason being India's monsoons in July may hinder revenue and occupancy. Since weekend occupancy rates are higher than weekday, in order to boost weekday rates too maybe some offers could be introduced. The approach should be targeted towards the given days and room categories in the above mentioned cities to ensure good market share and revenue.
