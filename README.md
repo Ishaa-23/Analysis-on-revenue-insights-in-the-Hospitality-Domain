@@ -2,7 +2,7 @@
 https://github.com/user-attachments/assets/c78fee03-e423-4d13-a920-f50b07386bd3
 ## AtliQ Resorts revenue analysis (made using Power Bi dashboards)
 ## Project objective
-This project aims to focus on which of the resorts or hotels owned by Atliq generate the most revenue. It shows which kind of rooms are most frequently occupied and customer behavior. 
+This is a resume project from Codebasics in the hospitality domain. AtliQ Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, AtliQ Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of AtliQ Grands wanted to incorporate “Business and Data Intelligence” to regain their market share and revenue. 
 ## Dataset used
 [Dataset](https://github.com/Ishaa-23/Analysis-on-revenue-insights-in-the-Hospitality-Domain/tree/main/Dataset) 
 
