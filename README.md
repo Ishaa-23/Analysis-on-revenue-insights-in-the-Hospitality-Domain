@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/c78fee03-e423-4d13-a920-f50b07386bd3
 ## AtliQ Resorts revenue analysis (made using Power Bi dashboards)
 ## Project objective
 This project aims to focus on which of the resorts or hotels owned by Atliq generate the most revenue. It shows which kind of rooms are most frequently occupied and customer behavior. 
@@ -20,7 +22,6 @@ This project aims to focus on which of the resorts or hotels owned by Atliq gene
 * used visuals and slicers to create an interactive dashboard
 
 ## Dashboard
-insert video
-
+https://github.com/user-attachments/assets/2a646566-f1d8-4e21-85de-de89359b98b9
 ## Insights
 ## Conclusion
